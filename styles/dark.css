@@ -16,7 +16,7 @@
   --title-decoration-bg-color: rgba(255, 0, 112, 1);
   --shadow-color: #FF0070;
   --link-shadow-color: #ff0070;
-  --button-hover-outline: rgba(255, 0, 112, 0.4); 
+  --button-hover-outline: rgba(255, 0, 112, 0.4);
   --not-accent-color: rgba(241, 178, 206, 1);
   --title-decoration-text-color: rgba(0, 0, 40, 1);
   --header-color: rgba(219, 0, 255, 1);
@@ -31,8 +31,8 @@
   --title-decoration-bg-color: rgba(255, 0, 112, 1);
   --shadow-color: #FF0070;
   --link-shadow-color: #ff0070;
-  --button-hover-outline: rgba(255, 0, 112, 0.4); 
+  --button-hover-outline: rgba(255, 0, 112, 0.4);
   --not-accent-color: rgba(241, 178, 206, 1);
   --title-decoration-text-color: rgba(0, 0, 40, 1);
-  --header-color: rgba(219, 0, 255, 1); 
+  --header-color: rgba(219, 0, 255, 1);
 }
